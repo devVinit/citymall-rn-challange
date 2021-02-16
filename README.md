@@ -20,17 +20,17 @@ Follow these instructions to submit your challenge.
 #### 3. Impress us with your skills
 
 ## Challenge
-Umang cant keep up with his time and he want some way to keep track of it. He needs a Calander App with list of all his appointment, meeting and tasks. You have to make a days basis time mangement app for him.
+Umang is a aspring js dev, he loves coding but unfortunately he broke his laptop and he wants to code somewhere. You have to make js playground app in react native in light and dark mode.
 
 ## Requirements
 Your app should be able to complete the following tasks:
-* Add a event screen. The screen should contains title, category(Appointment, meeting and tasks), description, time and color.
-* A screen to show all the timing being booked just like Google/Apple calender day basis screen.
-* Ability to edit time slot all the fileds above mentioned.
-* No need to make full calender just only on day basis.
-* Make sure time slots doesn't overide and overlap each other.
-* Persist data using Redux.
-* You can pick any design from Google/Applce calendar.
+* A screen thats contains code editor with play and setting button at top. 
+* When user hit the play button after writting code it should show the result in another screen.
+* When user goes to setting screen it should comes with basic editor config like theme (white and dark), fontSize and spacing (4,2).
+* Basic component based test should be written.
+* Color highlighting should be done.
+* You will use Ignite Cli to have to have your base project.
+* You can pick any design from mobile based editor/IDE.
 
 ## Grading
 The grading of the app  will be based off of three criteria:
